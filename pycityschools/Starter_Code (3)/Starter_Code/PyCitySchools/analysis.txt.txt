@@ -1,4 +1,3 @@
-Analysis:
 Analysis Summary:
                  Reviewing the per school summary data some interesting pts are,
                  1-Charter schools as a whole have significantly higher passing rate for their student body compare to District Schools.
